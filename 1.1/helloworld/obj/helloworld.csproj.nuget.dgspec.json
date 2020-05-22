@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\work\\dotnet-helloworld\\1.1\\helloworld\\helloworld.csproj": {}
+  },
+  "projects": {
+    "F:\\work\\dotnet-helloworld\\1.1\\helloworld\\helloworld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\work\\dotnet-helloworld\\1.1\\helloworld\\helloworld.csproj",
+        "projectName": "helloworld",
+        "projectPath": "F:\\work\\dotnet-helloworld\\1.1\\helloworld\\helloworld.csproj",
+        "packagesPath": "C:\\Users\\patle\\.nuget\\packages\\",
+        "outputPath": "F:\\work\\dotnet-helloworld\\1.1\\helloworld\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\patle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[1.1.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

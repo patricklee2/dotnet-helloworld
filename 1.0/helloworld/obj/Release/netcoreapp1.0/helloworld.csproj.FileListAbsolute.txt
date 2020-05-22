@@ -1,0 +1,13 @@
+F:\work\dotnet-helloworld\1.0\helloworld\bin\Release\netcoreapp1.0\Properties\launchSettings.json
+F:\work\dotnet-helloworld\1.0\helloworld\bin\Release\netcoreapp1.0\helloworld.deps.json
+F:\work\dotnet-helloworld\1.0\helloworld\bin\Release\netcoreapp1.0\helloworld.runtimeconfig.json
+F:\work\dotnet-helloworld\1.0\helloworld\bin\Release\netcoreapp1.0\helloworld.runtimeconfig.dev.json
+F:\work\dotnet-helloworld\1.0\helloworld\bin\Release\netcoreapp1.0\helloworld.dll
+F:\work\dotnet-helloworld\1.0\helloworld\bin\Release\netcoreapp1.0\helloworld.pdb
+F:\work\dotnet-helloworld\1.0\helloworld\obj\Release\netcoreapp1.0\helloworld.csprojAssemblyReference.cache
+F:\work\dotnet-helloworld\1.0\helloworld\obj\Release\netcoreapp1.0\helloworld.AssemblyInfoInputs.cache
+F:\work\dotnet-helloworld\1.0\helloworld\obj\Release\netcoreapp1.0\helloworld.AssemblyInfo.cs
+F:\work\dotnet-helloworld\1.0\helloworld\obj\Release\netcoreapp1.0\helloworld.csproj.CoreCompileInputs.cache
+F:\work\dotnet-helloworld\1.0\helloworld\obj\Release\netcoreapp1.0\helloworld.dll
+F:\work\dotnet-helloworld\1.0\helloworld\obj\Release\netcoreapp1.0\helloworld.pdb
+F:\work\dotnet-helloworld\1.0\helloworld\obj\Release\netcoreapp1.0\helloworld.genruntimeconfig.cache

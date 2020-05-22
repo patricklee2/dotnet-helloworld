@@ -1,0 +1,17 @@
+F:\work\dotnet-helloworld\2.2\helloworld\bin\Release\netcoreapp2.2\appsettings.Development.json
+F:\work\dotnet-helloworld\2.2\helloworld\bin\Release\netcoreapp2.2\appsettings.json
+F:\work\dotnet-helloworld\2.2\helloworld\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+F:\work\dotnet-helloworld\2.2\helloworld\bin\Release\netcoreapp2.2\helloworld.deps.json
+F:\work\dotnet-helloworld\2.2\helloworld\bin\Release\netcoreapp2.2\helloworld.runtimeconfig.json
+F:\work\dotnet-helloworld\2.2\helloworld\bin\Release\netcoreapp2.2\helloworld.runtimeconfig.dev.json
+F:\work\dotnet-helloworld\2.2\helloworld\bin\Release\netcoreapp2.2\helloworld.dll
+F:\work\dotnet-helloworld\2.2\helloworld\bin\Release\netcoreapp2.2\helloworld.pdb
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.AssemblyInfoInputs.cache
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.AssemblyInfo.cs
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.csproj.CoreCompileInputs.cache
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.RazorAssemblyInfo.cache
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.RazorAssemblyInfo.cs
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.RazorTargetAssemblyInfo.cache
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.dll
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.pdb
+F:\work\dotnet-helloworld\2.2\helloworld\obj\Release\netcoreapp2.2\helloworld.genruntimeconfig.cache
